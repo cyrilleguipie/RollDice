@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RollDice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to RollDice!</string>
+    <string name="description">It\'s a little game ported and fine-tuned to be played on an Android Wear Device. The Android Wear App should have silently installed RollDice on your Wearable when you\'ve installed this App on your Smartphone.\n\nYou can find the code of RollDice here:\nhttp://www.github.com/cyrilleguipie\n\nPro-Tip: Click the blue bubble on the left to start RollDice on your Wearable. Alternative use the \"OK Google, Start RollDice\" Voice Command on your Wearable.\n\nBlog:\nhttp://cyrilleguipie.blogspot.com</string>
+
+</resources>
