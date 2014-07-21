@@ -29,6 +29,7 @@ public class MenuActivity extends Activity {
                 switch(item.getItemId()) {
                     case R.id.start_game:
                         startActivity(new Intent(MenuActivity.this, RollWearActivity.class));
+                        finish();
                         break;
 
                     case R.id.about:

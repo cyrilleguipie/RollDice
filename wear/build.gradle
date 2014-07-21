@@ -9,8 +9,8 @@ android {
         applicationId "org.cyrilleguipie.rolldice"
         minSdkVersion 20
         targetSdkVersion 20
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "1.2"
     }
     buildTypes {
         release {
